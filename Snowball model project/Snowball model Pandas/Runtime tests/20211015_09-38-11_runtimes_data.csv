@@ -1,0 +1,6 @@
+,Number of customers,Runtimes for add_zero_months (seconds),Runtimes for add_1_monthly_flags (seconds),Runtimes for add_3_monthly_flags (seconds),Runtimes for add_12_monthly_flags (seconds)
+0,2,0.020166397,0.250876427,0.164073944,0.196687698
+1,500,82.60326767,89.77742338,96.03801847,97.64377284
+2,1000,318.0119998,210.2454569,247.4451978,302.4231162
+,,,,,
+,Total runtime was 1446.3825793266296,,,,
